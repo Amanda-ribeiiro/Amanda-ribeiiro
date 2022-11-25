@@ -1,4 +1,5 @@
 ### Bem vindo ao meu perfil! 🚀🚀
+Iniciado o curso de Ciência da Computação na <a href="https://portal.anhembi.br/">
 
 <div align="center">
   <a href="https://github.com/Amanda-ribeiiro">
