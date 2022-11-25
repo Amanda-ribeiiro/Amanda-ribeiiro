@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil! 🚀🚀
 Iniciado o curso de Ciência da Computação na  <a href="https://portal.anhembi.br/">
-
+<a href="https://portal.anhembi.br/">
 <div align="center">
   <a href="https://github.com/Amanda-ribeiiro">
   <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Amanda-ribeiiro&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
