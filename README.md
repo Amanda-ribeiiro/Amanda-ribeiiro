@@ -1,5 +1,5 @@
 ### Bem vindo ao meu perfil! 🚀🚀
-#### Iniciado o curso de Ciência da Computação 1/10 na  [Universidade Anhembi Morumbi](https://portal.anhembi.br/)
+#### Iniciado o curso de Ciência da Computação 1/8 na  [Universidade Anhembi Morumbi](https://portal.anhembi.br/)
 #### Bootcamp Orange Tech  [Banco Inter](https://www.bancointer.com.br/) na [DIO ME](https://web.dio.me/track/81278323-8916-401b-8446-03118eaff280)
 
 <div align="center">
