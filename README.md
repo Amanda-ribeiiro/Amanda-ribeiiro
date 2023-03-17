@@ -1,6 +1,6 @@
-### Bem vindo ao meu perfil! 🚀🚀
-#### 🎓 Iniciado o curso de Ciência da Computação 1/8 na  [Universidade Anhembi Morumbi](https://portal.anhembi.br/)
-#### 🎓 Introdução à Ciência da Computação [CC50 - Harvard](https://ead.napratica.org.br/)
+### Welcome to my profile! 🚀🚀
+#### 🎓 Starding the course Computer Science 1/8 in  [Universidade Anhembi Morumbi](https://portal.anhembi.br/)
+#### 🎓 Introdution Computer Science [CC50 - Harvard](https://ead.napratica.org.br/)
 #### 📓 [Bootcamp Orange Tech | Back End](https://web.dio.me/track/2aeff5aa-bb23-4141-8109-20fa42b58ff7)  [Banco Inter](https://www.bancointer.com.br/) na [DIO ME](https://web.dio.me/track/81278323-8916-401b-8446-03118eaff280)
 
 
