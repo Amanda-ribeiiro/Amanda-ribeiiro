@@ -18,6 +18,10 @@
   <img align="center" alt="Amanda-Ts" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Amanda-Angular" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Amanda-Python" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="Amanda-C+" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Amanda-C" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="Amanda-Mysql" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Amanda-NPM" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Amanda-Django" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="Amanda-Ruby" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/ruby/ruby-original.svg">
 </div>
