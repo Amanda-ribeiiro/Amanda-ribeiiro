@@ -23,8 +23,7 @@
   <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg">  
   <img align="center" alt="Amanda-Mysql" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Amanda-NPM" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="Amanda-Django" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/django/django-plain-wordmark.svg">
-  <img align="center" alt="Amanda-Ruby" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Amanda-PHP" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/php/php-original.svg">
 </div>
   
   ##
