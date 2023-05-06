@@ -14,7 +14,6 @@
   <img align="center" alt="Amanda-Java" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/java/java-original.svg">  
   <img align="center" alt="Amanda-C" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Amanda-C+" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/csharp/csharp-original.svg">
-  
   <img align="center" alt="Amanda-React" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Amanda-Js" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Amanda-Ts" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/typescript/typescript-original.svg">
