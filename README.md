@@ -26,21 +26,18 @@
   <img align="center" alt="Amanda-PHP" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/php/php-original.svg">
 </div>
   
-  ##
+____
   
 ![Snake animation](https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/output/github-contribution-grid-snake.svg)
 
 <br />
 
-<div align="center">
-  <a href ="https://www.instagram.com/ama.ndarc/" target="_blank"><img width="31px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/instagram.png"></a>
-  <a href ="https://twitter.com/daaribeiro_" target="_blank"><img width="31px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/twitter.svg" target="_blank"></a> 
-  <a href ="https://api.whatsapp.com/send?phone=5511988737090" target="_blank"><img width="31px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/whatsapp.jpg" target="_blank"></a>
-  <a href ="mailto:amandaribeiro.c@outlook.com"><img width="31px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/email.png" target="_blank"></a>
-</div>
+#
   
-[![Discord](https://img.shields.io/discord/1001854951514963978?label=discord&logo=discord&logoColor=violet)](https://discord.com/channels/999175108256092251)
-[![Twitch: amrcerq](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/amrcerq)](https://www.twitch.tv/amrcerq)    
-[![Twitter Follow](https://img.shields.io/twitter/follow/daaribeiro_?style=social)](https://twitter.com/daaribeiro_)
-[![Linkedin: amandarcerqueira](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandarcerqueira//)](https://www.linkedin.com/in/amandarcerqueira/)
+[![Discord](https://img.shields.io/discord/1001854951514963978?label=discord&logo=discord&logoColor=violet)](https://discord.com/channels/999175108256092251) [![Twitch: amrcerq](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/amrcerq)](https://www.twitch.tv/amrcerq) [![Twitter Follow](https://img.shields.io/twitter/follow/daaribeiro_?style=social)](https://twitter.com/daaribeiro_) [![Linkedin: amandarcerqueira](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandarcerqueira//)](https://www.linkedin.com/in/amandarcerqueira/)
 
+<div align="center">
+  <a href ="https://www.instagram.com/ama.ndarc/" target="_blank"><img width="21px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/instagram.png"></a>
+  <a href ="https://api.whatsapp.com/send?phone=5511988737090" target="_blank"><img width="21px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/whatsapp.jpg" target="_blank"></a>
+  <a href ="mailto:amandaribeiro.c@outlook.com"><img width="21px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/email.png" target="_blank"></a>
+</div>
