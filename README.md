@@ -28,20 +28,16 @@
   
   ##
   
-<div>
-  <a href ="https://www.instagram.com/ama.ndarc/" target="_blank"><img width="31px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/instagram.png"></a>
-  <a href ="https://discord.com/channels/@me" target="_blank"><img width="31px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/discord.jpg" " target="_blank"></a> 
-  <a href="https://www.twitch.tv/amrcerq" target="_blank"><img  width="31px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/twich.jpg" target="_blank"></a>
-  <a href ="https://twitter.com/daaribeiro_" target="_blank"><img width="31px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/twitter.svg" target="_blank"></a> 
-  <a href ="https://api.whatsapp.com/send?phone=5511988737090" target="_blank"><img width="21px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/whatsapp.jpg" target="_blank"></a>
-  <a href ="https://www.linkedin.com/in/amandarcerqueira/" target="_blank"><img width="31px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/linkedin.jpg" target="_blank"></a> 
-  <a href ="mailto:amandaribeiro.c@outlook.com"><img width="31px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/email.png" target="_blank"></a>
-</div>
-    
-
-      
-  
 ![Snake animation](https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/output/github-contribution-grid-snake.svg)
 
- </div>
-  
+<br />
+
+<div align="center">
+  <a href ="https://www.instagram.com/ama.ndarc/" target="_blank"><img width="31px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/instagram.png"></a>
+  <a href ="https://twitter.com/daaribeiro_" target="_blank"><img width="31px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/twitter.svg" target="_blank"></a> 
+  <a href ="https://discord.com/channels/@me" target="_blank"><img width="31px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/discord.jpg" " target="_blank"></a> 
+  <a href="https://www.twitch.tv/amrcerq" target="_blank"><img  width="31px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/twich.jpg" target="_blank"></a>
+  <a href ="https://api.whatsapp.com/send?phone=5511988737090" target="_blank"><img width="35px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/whatsapp.jpg" target="_blank"></a>
+  <a href ="https://www.linkedin.com/in/amandarcerqueira/" target="_blank"><img width="31px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/linkedin.png" target="_blank"></a> 
+  <a href ="mailto:amandaribeiro.c@outlook.com"><img width="31px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/email.png" target="_blank"></a>
+</div>
