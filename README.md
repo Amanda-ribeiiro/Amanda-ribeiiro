@@ -26,18 +26,51 @@
   <img align="center" alt="Amanda-PHP" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/php/php-original.svg">
 </div>
   
-____
+#
   
 ![Snake animation](https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/output/github-contribution-grid-snake.svg)
 
-<br />
-
 #
   
-[![Discord](https://img.shields.io/discord/1001854951514963978?label=discord&logo=discord&logoColor=violet)](https://discord.com/channels/999175108256092251) [![Twitch: amrcerq](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/amrcerq)](https://www.twitch.tv/amrcerq) [![Twitter Follow](https://img.shields.io/twitter/follow/daaribeiro_?style=social)](https://twitter.com/daaribeiro_) [![Linkedin: amandarcerqueira](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandarcerqueira//)](https://www.linkedin.com/in/amandarcerqueira/)
+[![Discord](https://img.shields.io/discord/1001854951514963978?label=discord&logo=discord&logoColor=violet)](https://discord.com/channels/999175108256092251) [![Twitch: amrcerq](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/amrcerq)](https://www.twitch.tv/amrcerq) [![Twitter Follow](https://img.shields.io/twitter/follow/daaribeiro_?style=social)](https://twitter.com/daaribeiro_) [![Linkedin: amandarcerqueira](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandarcerqueira//)](https://www.linkedin.com/in/amandarcerqueira/) [![Outlook](https://img.shields.io/twitter/url?color=blue&label=Email&logo=microsoft%20outlook&logoColor=blue&style=social&url=https%3A%2F%2Fmailto%3Aamandaribeiro.c%40outlook.com)](mailto:stephanyn7@gmail.com)
 
-<div align="center">
+<div align="right">
   <a href ="https://www.instagram.com/ama.ndarc/" target="_blank"><img width="21px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/instagram.png"></a>
   <a href ="https://api.whatsapp.com/send?phone=5511988737090" target="_blank"><img width="21px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/whatsapp.jpg" target="_blank"></a>
-  <a href ="mailto:amandaribeiro.c@outlook.com"><img width="21px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/email.png" target="_blank"></a>
 </div>
+  
+<details>
+  <summary> More about me</summary>
+<div align="left">
+ 
+``` js
+const amanda = {
+    personal: {
+        fullName: 'Amanda Ribeiro',
+        birthDate: '1997-01-19',
+        pronouns: 'she' | 'her',
+        interests: ['music', 'shows', 'language learning', 'Travel', 'Cool places'],
+        motivation: [
+            'Learning daily',
+        ],
+    },
+    technical: {
+        technologies: {
+            frontEnd: {
+                Javascript: ['Vanilla JS', 'React', 'Angular'],
+                HTML: ['HTML5', 'Semantic HTML'],
+                CSS: ['Sass', 'Styled Components', 'Bootstrap'],
+            },
+            backEnd: {
+                Javascript: ['Node.js'],
+                Python: ['Django'],
+                Java: ['Spring Framework', 'Hibernate ORM'],
+                C: ['GTK+ Toolkit'],
+           }
+            architecture: [],
+        },
+    }
+}
+```
+  </div>
+</details>
