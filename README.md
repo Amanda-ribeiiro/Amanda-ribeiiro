@@ -36,7 +36,7 @@
 
   
 <details>
-  <summary><button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; transition: background-color 0.3s ease;" onclick="this.style.backgroundColor='#3E8E41'">More about me</button></summary>
+  <summary><button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; box-shadow: 0px 2px 2px rgba(0,0,0,0.3); transition: box-shadow 0.3s ease;" onclick="this.style.boxShadow='inset 0px 2px 2px rgba(0,0,0,0.3)'">More about me</button></summary>
 
 <div align="left">
  
