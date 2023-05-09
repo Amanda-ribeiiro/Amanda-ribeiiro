@@ -1,6 +1,6 @@
 ### Welcome to my profile! 🚀🚀
 #### 🎓 Starding the course Computer Science 2/10 in  [Universidade Anhembi Morumbi](https://portal.anhembi.br/)
-#### 🎓 Introdution Computer Science [CC50 - Harvard](https://ead.napratica.org.br/)
+#### 🎓 Introduction Computer Science [CC50 - Harvard](https://ead.napratica.org.br/)
 #### 👩🏻‍💻 [Bootcamp Microsoft Dynamics 365](https://web.dio.me/track/cf67dde3-0ad4-4fcb-9162-fc6aba72c0cf)  [Microosoft](https://www.microsoft.com/pt-br) in [DIO ME](https://web.dio.me/home)
 #### 👩🏻‍💻 Santander Coders 2023 | Santander Universidades - Brasil
 
@@ -46,7 +46,7 @@ const amanda = {
         fullName: 'Amanda Ribeiro',
         birthDate: '1997-01-19',
         pronouns: 'she' | 'her',
-        interests: ['music', 'shows', 'language learning', 'Travel', 'Cool places'],
+        interests: ['music', 'shows', 'language learning, 'Travel', 'Cool places'],
         motivation: [
             'Learning daily',
         ],
