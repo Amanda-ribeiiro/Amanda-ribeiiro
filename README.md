@@ -46,7 +46,7 @@ const amanda = {
         fullName: 'Amanda Ribeiro',
         birthDate: '1997-01-19',
         pronouns: 'she' | 'her',
-        interests: ['music', 'shows', 'language learning, 'Travel', 'Cool places'],
+        interests: ['music', 'shows', 'language learning, 'travel', 'Cool places'],
         motivation: [
             'Learning daily',
         ],
