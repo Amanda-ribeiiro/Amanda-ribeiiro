@@ -2,7 +2,9 @@
 <a href="https://github.com/Amanda-ribeiiro/"><img src="https://img.shields.io/github/followers/Amanda-ribeiiro?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
 <img src="http://views.whatilearened.today/views/github/Amanda-Ribeiiro/views.svg"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=45&duration=4000&pause=1000&color=F78840&center=true&vCenter=true&repeat=false&width=435&lines=Hii!+Welcome+to+my+profile)](https://git.io/typing-svg):octocat:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=45&duration=4000&pause=1000&color=F4FFF9&center=true&vCenter=true&repeat=false&width=435&lines=Hii!+Welcome+to+my+profile)](https://git.io/typing-svg)
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="64" height="64">
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=F731F1&background=FF27D500&vCenter=true&multiline=true&width=435&lines=Developer+Front+End+Junior)](https://git.io/typing-svg)
 
