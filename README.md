@@ -1,14 +1,17 @@
+[![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Ribeiro-0066A1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandarcerqueira/)](https://www.linkedin.com/in/amandarcerqueira//)
+
 ### Welcome to my profile! 🚀🚀
 #### 🎓 Starding the course Computer Science 1/10 in  [Universidade Anhembi Morumbi](https://portal.anhembi.br/)
 #### 🎓 Introduction Computer Science [CC50 - Harvard](https://ead.napratica.org.br/)
 #### 👩🏻‍💻 [Bootcamp Microsoft Dynamics 365](https://web.dio.me/track/cf67dde3-0ad4-4fcb-9162-fc6aba72c0cf)  [Microosoft](https://www.microsoft.com/pt-br) in [DIO ME](https://web.dio.me/home)
 #### 👩🏻‍💻 [Santander Coders 2023 | Data Science](https://selecao.ada.tech/processo-seletivo/40da25ec-a962-4186-95bf-1925fd2bdf3a/andamento)
 
-<div align="center">
+<div>
   <a href="https://github.com/Amanda-ribeiiro">
-  <img height="167em" src="https://github-readme-stats.vercel.app/api?username=Amanda-ribeiiro&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-ribeiiro&layout=compact&langs_count=7&theme=radical"/>
-</div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Amanda-ribeiiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amanda-ribeiiro&layout=compact&langs_count=8&theme=tokyonight"/>
+<div>
+  
 <div align="center">
   <div style="display: inline_block"><br>
   <img align="center" alt="Amanda-Python" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg">
@@ -32,7 +35,7 @@
 
 #
   
-[![Discord](https://img.shields.io/discord/1001854951514963978?label=discord&logo=discord&logoColor=violet)](https://discord.com/channels/999175108256092251) [![Twitch: amrcerq](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/amrcerq)](https://www.twitch.tv/amrcerq) [![Twitter Follow](https://img.shields.io/twitter/follow/daaribeiro_?style=social)](https://twitter.com/daaribeiro_) [![Linkedin: amandarcerqueira](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandarcerqueira//)](https://www.linkedin.com/in/amandarcerqueira/) [![Outlook](https://img.shields.io/twitter/url?color=blue&label=Email&logo=microsoft%20outlook&logoColor=blue&style=social&url=https%3A%2F%2Fmailto%3Aamandaribeiro.c%40outlook.com)](mailto:amandaribeiro.c@outlook.com)
+[![Discord](https://img.shields.io/discord/1001854951514963978?label=discord&logo=discord&logoColor=violet)](https://discord.com/channels/999175108256092251) [![Twitch: amrcerq](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/amrcerq)](https://www.twitch.tv/amrcerq) [![Twitter Follow](https://img.shields.io/twitter/follow/daaribeiro_?style=social)](https://twitter.com/daaribeiro_) [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Ribeiro-0066A1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandarcerqueira/)](https://www.linkedin.com/in/amandarcerqueira//) [![Outlook](https://img.shields.io/twitter/url?color=blue&label=Email&logo=microsoft%20outlook&logoColor=blue&style=social&url=https%3A%2F%2Fmailto%3Aamandaribeiro.c%40outlook.com)](mailto:amandaribeiro.c@outlook.com)
 
   
 <details>
