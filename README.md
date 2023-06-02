@@ -1,10 +1,52 @@
-[![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Ribeiro-0066A1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandarcerqueira/)](https://www.linkedin.com/in/amandarcerqueira//)
+![](https://komarev.com/ghpvc/?username=Amanda-ribeiiro0&color=blue&style=flat)
+<a href="https://github.com/Amanda-ribeiiro/"><img src="https://img.shields.io/github/followers/Amanda-ribeiiro?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+<img src="http://views.whatilearened.today/views/github/Amanda-Ribeiiro/views.svg"/> 
 
-### Welcome to my profile! 🚀🚀
-#### 🎓 Starding the course Computer Science 1/10 in  [Universidade Anhembi Morumbi](https://portal.anhembi.br/)
-#### 🎓 Introduction Computer Science [CC50 - Harvard](https://ead.napratica.org.br/)
-#### 👩🏻‍💻 [Bootcamp Microsoft Dynamics 365](https://web.dio.me/track/cf67dde3-0ad4-4fcb-9162-fc6aba72c0cf)  [Microosoft](https://www.microsoft.com/pt-br) in [DIO ME](https://web.dio.me/home)
-#### 👩🏻‍💻 [Santander Coders 2023 | Data Science](https://selecao.ada.tech/processo-seletivo/40da25ec-a962-4186-95bf-1925fd2bdf3a/andamento)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=45&duration=4000&pause=1000&color=F78840&center=true&vCenter=true&repeat=false&width=435&lines=Hii!+Welcome+to+my+profile)](https://git.io/typing-svg):octocat:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=F731F1&background=FF27D500&vCenter=true&multiline=true&width=435&lines=Developer+Front+End+Junior)](https://git.io/typing-svg)
+
+<details>
+  <summary>🎓 Starting the course Computer Science 2/10 at <a href="https://portal.anhembi.br/" target="_blank">Universidade Anhembi Morumbi</a></summary>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F78840&vCenter=true&width=435&lines=Mat%C3%A9rias)](https://git.io/typing-svg)
+  
+</details>
+
+<details>
+  <summary>🎓 Introduction Computer Science <a href="https://ead.napratica.org.br/" target="_blank">CC50 - Harvard</a></summary>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=32F71B&width=435&lines=Soft+Skills)](https://git.io/typing-svg)
+
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/c/c-original.svg"></code>
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg"></code>
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg"></code>
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg"></code>
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+</details>
+
+<details>
+  <summary>👩🏻‍💻 Bootcamp <a href="https://web.dio.me/track/cf67dde3-0ad4-4fcb-9162-fc6aba72c0cf" target="_blank">Microsoft Dynamics 365</a></summary>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=B560F7&width=435&lines=Soft+Skills)](https://git.io/typing-svg)
+  
+  
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"></code>
+  
+</details>
+
+<details>
+  <summary>💻 Santander Coders 2023 <a href="https://selecao.ada.tech/processo-seletivo/40da25ec-a962-4186-95bf-1925fd2bdf3a/andamento" target="_blank">Data Science</a></summary>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=A8F7E7&width=435&lines=Soft+Skills)](https://git.io/typing-svg)
+  
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg"></code>
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/github/github-original-wordmark.svg"></code>
+  
+</details>
+
 
 <div>
   <a href="https://github.com/Amanda-ribeiiro">
@@ -76,8 +118,14 @@ const amanda = {
 </details>
 
 <br />
-  
+
+
 <div align="center">
   <a href ="https://www.instagram.com/ama.ndarc/" target="_blank"><img width="21px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/instagram.png"></a>
   <a href ="https://api.whatsapp.com/send?phone=5511988737090" target="_blank"><img width="21px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/whatsapp.jpg" target="_blank"></a>
+</div>
+  
+  
+<div alig="">  
+   <p align="right"><a href="https://github.com/Amanda-ribeiiro?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a></p>
 </div>
