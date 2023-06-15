@@ -25,13 +25,26 @@
 </details>
 
 <details>
+  <summary> 👩🏻‍💻 Developer Front End <a href="https://coursera.org/share/e949656cabfef5b1aec42b0352ecc104" target="_blank">Meta</a></summary>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=B560F7&width=435&lines=Soft+Skills)](https://git.io/typing-svg)
+
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg"></code>
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg"></code>
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/react/react-original.svg"></code>
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>  
+</details>
+
+   
+<details>
   <summary>🎓 Introduction Computer Science <a href="https://ead.napratica.org.br/" target="_blank">CC50 - Harvard</a></summary>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=32F71B&width=435&lines=Soft+Skills)](https://git.io/typing-svg)
 
 <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/c/c-original.svg"></code>
 <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg"></code>
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/sqlite/sqlite-original.svg"></code>
 <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg"></code>
 <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg"></code>
 <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
