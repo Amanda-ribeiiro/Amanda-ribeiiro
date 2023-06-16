@@ -80,19 +80,18 @@
   
 <div align="center">
   <div style="display: inline_block"><br>
-  <img align="center" alt="Amanda-Python" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Amanda-Java" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/java/java-original.svg">  
-  <img align="center" alt="Amanda-C" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Amanda-C+" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Amanda-React" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Amanda-Js" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Amanda-Ts" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Amanda-Angular" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg">  
-  <img align="center" alt="Amanda-Mysql" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Amanda-NPM" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
-  <img align="center" alt="Amanda-PHP" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/php/php-original.svg">
+      <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg">
+      <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg">
+      <img align="center" alt="Amanda-Js" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg">
+      <img align="center" alt="Amanda-React" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/react/react-original.svg">
+      <img align="center" alt="Amanda-Boostrap" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+      <img align="center" alt="Amanda-Angular" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+      <img align="center" alt="Amanda-Ts" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/typescript/typescript-original.svg">
+      <img align="center" alt="Amanda-Nodejs" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+      <img align="center" alt="Amanda-Python" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg">
+      <img align="center" alt="Amanda-Java" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/java/java-original.svg">  
+      <img align="center" alt="Amanda-C" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/c/c-original.svg">
+      <img align="center" alt="Amanda-C+" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/csharp/csharp-original.svg">
 </div>
   
 #
@@ -115,28 +114,29 @@ const amanda = {
         fullName: 'Amanda Ribeiro',
         birthDate: '1997-01-19',
         pronouns: 'she' | 'her',
-        interests: ['music', 'shows', 'language learning, 'travel', 'Cool places'],
+        interests: ['music', 'shows', 'language learning', 'travel', 'Cool places'],
         motivation: [
-            'Learning daily',
-        ],
+            'Learning daily'
+        ]
     },
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['Vanilla JS', 'React', 'Angular'],
+                Javascript: ['React', 'Angular', 'Vue.js', 'Ember.js', 'Next.js'],
                 HTML: ['HTML5', 'Semantic HTML'],
-                CSS: ['Sass', 'Styled Components', 'Bootstrap'],
+                CSS: ['Styled Components', 'Bootstrap', 'Tailwind CSS']
             },
             backEnd: {
                 Javascript: ['Node.js'],
                 Python: ['Django'],
-                Java: ['Spring Framework', 'Hibernate ORM'],
-                C: ['GTK+ Toolkit'],
-           }
-            architecture: [],
-        },
+                Java: ['Spring Framework'],
+                C: ['GTK+ Toolkit']
+            },
+            architecture: []
+        }
     }
-}
+};
+
 ```
   </div>
 </details>
