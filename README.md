@@ -1,21 +1,19 @@
-<div style="text-align: center;">
-    <img src="https://komarev.com/ghpvc/?username=Amanda-ribeiiro0&color=blue&style=flat" alt="Profile Views">
-    <a href="https://github.com/Amanda-ribeiiro/"><img src="https://img.shields.io/github/followers/Amanda-ribeiiro?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-    <img src="http://views.whatilearened.today/views/github/Amanda-Ribeiiro/views.svg" alt="Profile Views">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amanda-ribeiiro0&color=blue&style=flat" alt="Profile Views">
+  <a href="https://github.com/Amanda-ribeiiro/"><img src="https://img.shields.io/github/followers/Amanda-ribeiiro?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+  <img src="http://views.whatilearened.today/views/github/Amanda-Ribeiiro/views.svg" alt="Profile Views">
 </div>
 
-
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=45&duration=4000&pause=1000&color=F4FFF9&center=true&vCenter=true&repeat=false&width=435&lines=Hii!+Welcome+to+my+profile" alt="Typing SVG">
-    <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="64" height="64">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=45&duration=4000&pause=1000&color=F4FFF9&center=true&vCenter=true&repeat=false&width=435&lines=Hii!+Welcome+to+my+profile" alt="Typing SVG">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="64" height="64">
 </p>
 
 <p align="center">
-    <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=F731F1&background=FF27D500&vCenter=true&multiline=true&width=435&lines=Developer+Front+End+Junior" alt="Typing SVG">
-    </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=F731F1&background=FF27D500&vCenter=true&multiline=true&width=435&lines=Developer+Front+End+Junior" alt="Typing SVG">
+  </a>
 </p>
-
 
 <details>
   <summary>🎓 Starting the course Computer Science 2/10 at <a href="https://portal.anhembi.br/" target="_blank">Universidade Anhembi Morumbi</a></summary>
