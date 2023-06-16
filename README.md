@@ -23,7 +23,7 @@
 </details>
 
 <details>
-  <summary> 👩🏻‍💻 Developer Front End <a href="https://coursera.org/share/e949656cabfef5b1aec42b0352ecc104" target="_blank">Meta</a></summary>
+  <summary>👩🏻‍💻 Developer Front End <a href="https://coursera.org/share/e949656cabfef5b1aec42b0352ecc104" target="_blank">Meta</a></summary>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=B560F7&width=435&lines=Soft+Skills)](https://git.io/typing-svg)
 
