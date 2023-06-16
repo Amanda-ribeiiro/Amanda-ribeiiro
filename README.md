@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=45&duration=4000&pause=1000&color=F4FFF9&center=true&vCenter=true&repeat=false&width=435&lines=Hii!+Welcome+to+my+profile" alt="Typing SVG">
-  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="64" height="64">
+  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="40" height="40">
 </p>
 
 <p align="center">
