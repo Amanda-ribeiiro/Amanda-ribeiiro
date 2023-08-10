@@ -72,8 +72,8 @@
 
 <div>
   <a href="https://github.com/Amanda-ribeiiro">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Amanda-ribeiiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amanda-ribeiiro&layout=compact&langs_count=20&theme=tokyonight"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Amanda-ribeiiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-ribeiiro&layout=compact&langs_count=7&theme=dracula"/>
 <div>
   
 <div align="center">
