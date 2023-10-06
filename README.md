@@ -16,7 +16,7 @@
 </p>
 
 <details>
-  <summary>🎓 Starting the course Computer Science 2/10 at <a href="https://portal.anhembi.br/" target="_blank">Universidade Anhembi Morumbi</a></summary>
+  <summary>🎓 Starting the course Computer Science 2/8 at <a href="https://portal.anhembi.br/" target="_blank">Universidade Anhembi Morumbi</a></summary>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F78840&vCenter=true&width=435&lines=Mat%C3%A9rias)](https://git.io/typing-svg)
   
