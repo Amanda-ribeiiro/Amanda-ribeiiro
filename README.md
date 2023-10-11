@@ -140,13 +140,6 @@ const amanda = {
 </details>
 
 <br />
-
-
-<div align="center">
-  <a href ="https://www.instagram.com/ama.ndarc/" target="_blank"><img width="21px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/instagram.png"></a>
-  <a href ="https://api.whatsapp.com/send?phone=5511988737090" target="_blank"><img width="21px" src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/main/assets/whatsapp.jpg" target="_blank"></a>
-</div>
-  
   
 <div alig="">  
    <p align="right"><a href="https://github.com/Amanda-ribeiiro?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a></p>
