@@ -92,9 +92,9 @@
       <img align="center" alt="Amanda-C+" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/csharp/csharp-original.svg">
 </div>
   
-#
+<!-- #
   
-![Snake animation](https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/output/github-contribution-grid-snake.svg) -->
 
 #
   
