@@ -25,7 +25,7 @@
 <details>
   <summary>👩🏻‍💻 Developer Front End <a href="https://coursera.org/share/e949656cabfef5b1aec42b0352ecc104" target="_blank">Meta</a></summary>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=B560F7&width=435&lines=Soft+Skills)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=B560F7&width=435&lines=Hard+Skills)](https://git.io/typing-svg)
 
 <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg"></code>
 <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg"></code>
@@ -38,7 +38,7 @@
 <details>
   <summary>🎓 Introduction Computer Science <a href="https://ead.napratica.org.br/" target="_blank">CC50 - Harvard</a></summary>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=32F71B&width=435&lines=Soft+Skills)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=32F71B&width=435&lines=Hard+Skills)](https://git.io/typing-svg)
 
 <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/c/c-original.svg"></code>
 <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg"></code>
@@ -51,7 +51,7 @@
 <details>
   <summary>👩🏻‍💻 Bootcamp <a href="https://web.dio.me/track/cf67dde3-0ad4-4fcb-9162-fc6aba72c0cf" target="_blank">Microsoft Dynamics 365</a></summary>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=B560F7&width=435&lines=Soft+Skills)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=B560F7&width=435&lines=Hard+Skills)](https://git.io/typing-svg)
   
   
 <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"></code>
@@ -61,7 +61,7 @@
 <details>
   <summary>💻 Santander Coders 2023 <a href="https://selecao.ada.tech/processo-seletivo/40da25ec-a962-4186-95bf-1925fd2bdf3a/andamento" target="_blank">Data Science</a></summary>
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=A8F7E7&width=435&lines=Soft+Skills)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=A8F7E7&width=435&lines=Hard+Skills)](https://git.io/typing-svg)
   
 <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
