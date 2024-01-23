@@ -4,16 +4,16 @@
   <img src="http://views.whatilearened.today/views/github/Amanda-Ribeiiro/views.svg" alt="Profile Views">
 </div>
 
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=600&size=45&duration=4000&pause=1000&color=F4FFF9&center=true&vCenter=true&repeat=false&width=435&lines=Hii!+Welcome+to+my+profile" alt="Typing SVG">
   <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="40" height="40">
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=F731F1&background=FF27D500&vCenter=true&multiline=true&width=435&lines=Developer+Web+FullStack" alt="Typing SVG">
   </a>
-</p>
+</div>
 
 <details>
   <summary>🎓 Starting the course Computer Science 3/8 at <a href="https://portal.anhembi.br/" target="_blank">Universidade Anhembi Morumbi</a></summary>
@@ -70,7 +70,7 @@
 </details>
 
 
-<div>
+<div align="center">
   <a href="https://github.com/Amanda-ribeiiro">
   <img loading="lazy" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Amanda-ribeiiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-ribeiiro&layout=compact&langs_count=7&theme=dracula"/>
@@ -78,23 +78,25 @@
   
 <div align="center">
   <div style="display: inline_block"><br>
-      <img align="center" alt="Amanda-HTML" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Amanda-CSS" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Amanda-Js" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg">
-      <img align="center" alt="Amanda-React" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/react/react-original.svg">
-      <img align="center" alt="Amanda-Boostrap" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-      <img align="center" alt="Amanda-Angular" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-      <img align="center" alt="Amanda-Ts" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/typescript/typescript-original.svg">
-      <img align="center" alt="Amanda-Nodejs" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
-      <img align="center" alt="Amanda-Python" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg">
-      <img align="center" alt="Amanda-Java" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/java/java-original.svg">  
-      <img align="center" alt="Amanda-C" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/c/c-original.svg">
-      <img align="center" alt="Amanda-C+" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/csharp/csharp-original.svg">
+      <img align="center" alt="Logo HTML" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg">
+      <img align="center" alt="Logo CSS" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg">
+      <img align="center" alt="Logo Js" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg">
+      <img align="center" alt="Logo React" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/react/react-original.svg">
+      <img align="center" alt="Logo Boostrap" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+      <img align="center" alt="Logo Angular" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+      <img align="center" alt="Logo Ts" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/typescript/typescript-original.svg">
+      <img align="center" alt="Logo Nodejs" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
+      <img align="center" alt="Logo PHP" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/php/php-original.svg">
+      <img align="center" alt="Logo WordPress" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+      <img align="center" alt="Logo Python" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg">
+      <img align="center" alt="Logo Java" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/java/java-original.svg">  
+      <img align="center" alt="Logo C" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/c/c-original.svg">
+      <img align="center" alt="Logo C+" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/csharp/csharp-original.svg">
 </div>
   
-<!-- #
+#
   
- ![Snake animation](https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/output/github-contribution-grid-snake.svg) -->
+ [Snake animation](https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/output/github-contribution-grid-snake.svg)
 
 #
   
@@ -102,8 +104,11 @@
 
   
 <details>
-  <summary><button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; box-shadow: 0px 2px 2px rgba(0,0,0,0.3); transition: box-shadow 0.3s ease;" onclick="this.style.boxShadow='inset 0px 2px 2px rgba(0,0,0,0.3)'">More about me</button></summary>
-
+  <summary>
+    <button style="padding: 10px 20px; background-color: #AB7AD6; color: #FFF; border: none; border-radius: 5px; box-shadow: 0px 2px 2px rgba(0,0,0,0.3); transition: box-shadow 0.3s ease;" onclick="this.style.boxShadow='inset 0px 2px 2px rgba(0,0,0,0.3)'">More about me
+    </button>
+  </summary>
+<br>
 <div align="left">
  
 ``` js
@@ -111,8 +116,9 @@ const amanda = {
     personal: {
         fullName: 'Amanda Ribeiro',
         birthDate: '1997-01-19',
+        sign: 'Capricorn',
         pronouns: 'she' | 'her',
-        interests: ['music', 'shows', 'language learning', 'travel', 'Cool places'],
+        interests: ['music', 'shows', 'language learning', 'travel', 'Cool places', 'Gym'],
         motivation: [
             'Learning daily'
         ]
@@ -120,14 +126,14 @@ const amanda = {
     technical: {
         technologies: {
             frontEnd: {
-                Javascript: ['React', 'Angular', 'Vue.js', 'Ember.js', 'Next.js'],
+                Javascript: ['React', 'Angular', 'Vue.js'],
                 HTML: ['HTML5', 'Semantic HTML'],
                 CSS: ['Styled Components', 'Bootstrap', 'Tailwind CSS']
             },
             backEnd: {
                 Javascript: ['Node.js'],
-                Python: ['Django'],
-                Java: ['Spring Framework'],
+                Python: ['Flask'],
+                Java: ['Spring Boot'],
                 C: ['GTK+ Toolkit']
             },
             architecture: []
@@ -139,8 +145,8 @@ const amanda = {
   </div>
 </details>
 
-<br />
+<br>
   
-<div alig="">  
-   <p align="right"><a href="https://github.com/Amanda-ribeiiro?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a></p>
+<div alig="left">  
+   <p align="right"><a href="https://github.com/Amanda-ribeiiro?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-ab7ad6?style=for-the-badge&logoColor=white&logo=repo"/></a></p>
 </div>
