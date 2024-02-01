@@ -17,79 +17,87 @@
 
 <details>
   <summary>🎓 Starting the course Computer Science 3/8 at <a href="https://portal.anhembi.br/" target="_blank">Universidade Anhembi Morumbi</a></summary>
-  <p><a href="https://github.com/Amanda-ribeiiro/computer-science-ABM.git" target="_blank">Repository</a></p>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F78840&vCenter=true&width=435&lines=Mat%C3%A9rias)](https://git.io/typing-svg)
-  
+    <p><a href="https://github.com/Amanda-ribeiiro/computer-science-ABM.git" target="_blank">Repository</a></p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F78840&vCenter=true&width=435&lines=Mat%C3%A9rias" alt="Typing SVG">
+    </a>
 </details>
 
 <details>
   <summary>👩🏻‍💻 Developer Front End <a href="https://coursera.org/share/e949656cabfef5b1aec42b0352ecc104" target="_blank">Meta</a></summary>
-  <p><a href="https://github.com/Amanda-ribeiiro/Introduction-to-Front-End-Development.git" target="_blank">Repository</a></p>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=B560F7&width=435&lines=Hard+Skills)](https://git.io/typing-svg)
+    <p><a href="https://github.com/Amanda-ribeiiro/Introduction-to-Front-End-Development.git" target="_blank">Repository</a></p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=B560F7&width=435&lines=Hard+Skills" alt="Typing SVG">
+    </a>
+    <br>
+    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg"></code>
+    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg"></code>
+    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/react/react-original.svg"></code>
+    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>  
+</details> 
 
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg"></code>
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg"></code>
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/react/react-original.svg"></code>
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>  
-</details>
-
-   
 <details>
   <summary>👩🏻‍💻 Introduction Computer Science <a href="https://ead.napratica.org.br/" target="_blank">CC50 - Harvard</a></summary>
-  <p><a href="https://github.com/Amanda-ribeiiro/HarvardCC50.git" target="_blank">Repository</a></p>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=32F71B&width=435&lines=Hard+Skills)](https://git.io/typing-svg)
-
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/c/c-original.svg"></code>
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg"></code>
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/sqlite/sqlite-original.svg"></code>
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg"></code>
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg"></code>
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+    <p><a href="https://github.com/Amanda-ribeiiro/HarvardCC50.git" target="_blank">Repository</a></p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=32F71B&width=435&lines=Hard+Skills" alt="Typing SVG">
+    </a>
+    <br>
+    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/c/c-original.svg"></code>
+    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg"></code>
+    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/sqlite/sqlite-original.svg"></code>
+    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg"></code>
+    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg"></code>
+    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 </details>
 
 <details>
   <summary>👩🏻‍💻 ONE - T6 <a href="https://cursos.alura.com.br/formacao-fase-selecao-one6" target="_blank">Oracle</a></summary>
-  <p><a href="https://github.com/Amanda-ribeiiro/ONE-T6.git" target="_blank">Repository</a></p>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=32F71B&width=435&lines=Hard+Skills)](https://git.io/typing-svg)
-
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg"></code>
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg"></code>
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg"></code>
+    <p><a href="https://github.com/Amanda-ribeiiro/ONE-T6.git" target="_blank">Repository</a></p>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=32F71B&width=435&lines=Hard+Skills" alt="Typing SVG">
+      </a>
+    <br>
+    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg"></code>
+    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg"></code>
+    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg"></code>
 </details>
 
 <details>
   <summary>👩🏻‍💻 PHP <a href="https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/" target="_blank">Udemy</a></summary>
    <p><a href="https://github.com/Amanda-ribeiiro/curso-php-udemy.git" target="_blank">Repository</a></p>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=32F71B&width=435&lines=Hard+Skills)](https://git.io/typing-svg)
-
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg"></code>
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg"></code>
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/php/php-original.svg"></code>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=32F71B&width=435&lines=Hard+Skills" alt="Typing SVG">
+      </a>
+    <br>
+    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg"></code>
+    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg"></code>
+    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/php/php-original.svg"></code>
 </details>
 
 <details>
   <summary>👩🏻‍💻 Bootcamp Microsoft Dynamics 365 <a href="https://web.dio.me/track/cf67dde3-0ad4-4fcb-9162-fc6aba72c0cf" target="_blank">DIO</a></summary>
    <p><a href="https://github.com/Amanda-ribeiiro/Microsoft-Dynamics-365.git" target="_blank">Repository</a></p>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=B560F7&width=435&lines=Hard+Skills)](https://git.io/typing-svg)
-  
-  
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"></code>
-  
+      <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=B560F7&width=435&lines=Hard+Skills" alt="Typing SVG">
+    </a>
+    <br>
+  <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"></code>  
 </details>
 
 <details>
   <summary>💻 Santander Coders 2023 <a href="https://selecao.ada.tech/processo-seletivo/40da25ec-a962-4186-95bf-1925fd2bdf3a/andamento" target="_blank">Data Science</a></summary>
    <p><a href="https://github.com/Amanda-ribeiiro/lscode.git" target="_blank">Repository</a></p>
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=A8F7E7&width=435&lines=Hard+Skills)](https://git.io/typing-svg)
-  
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg"></code>
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
-<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/github/github-original-wordmark.svg"></code>
-  
+      <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=A8F7E7&width=435&lines=Hard+Skills" alt="Typing SVG">
+    </a>
+  <br>
+  <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg"></code>
+  <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
+  <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/github/github-original-wordmark.svg"></code> 
 </details>
 
 
