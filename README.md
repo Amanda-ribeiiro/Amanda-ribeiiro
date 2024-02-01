@@ -36,7 +36,7 @@
 
    
 <details>
-  <summary>🎓 Introduction Computer Science <a href="https://ead.napratica.org.br/" target="_blank">CC50 - Harvard</a></summary>
+  <summary>👩🏻‍💻 Introduction Computer Science <a href="https://ead.napratica.org.br/" target="_blank">CC50 - Harvard</a></summary>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=32F71B&width=435&lines=Hard+Skills)](https://git.io/typing-svg)
 
@@ -49,7 +49,29 @@
 </details>
 
 <details>
-  <summary>👩🏻‍💻 Bootcamp <a href="https://web.dio.me/track/cf67dde3-0ad4-4fcb-9162-fc6aba72c0cf" target="_blank">Microsoft Dynamics 365</a></summary>
+  <summary>👩🏻‍💻 ONE - T6 <a href="https://cursos.alura.com.br/formacao-fase-selecao-one6" target="_blank">Oracle</a></summary>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=32F71B&width=435&lines=Hard+Skills)](https://git.io/typing-svg)
+
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg"></code>
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg"></code>
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg"></code>
+</details>
+
+<details>
+  <summary>👩🏻‍💻 PHP <a href="https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/" target="_blank">Udemy</a></summary>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=32F71B&width=435&lines=Hard+Skills)](https://git.io/typing-svg)
+
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg"></code>
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg"></code>
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/php/php-original.svg"></code>
+</details>
+
+<details>
+  <summary>👩🏻‍💻 Bootcamp Microsoft Dynamics 365 <a href="https://web.dio.me/track/cf67dde3-0ad4-4fcb-9162-fc6aba72c0cf" target="_blank">DIO</a></summary>
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=B560F7&width=435&lines=Hard+Skills)](https://git.io/typing-svg)
   
