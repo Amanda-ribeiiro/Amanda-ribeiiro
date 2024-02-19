@@ -150,9 +150,7 @@ const amanda = {
         sign: 'Capricorn',
         pronouns: 'she' | 'her',
         interests: ['music', 'shows', 'language learning', 'travel', 'Cool places', 'Gym'],
-        motivation: [
-            'Learning daily'
-        ]
+        motivation: ['Learning daily']
     },
     technical: {
         technologies: {
