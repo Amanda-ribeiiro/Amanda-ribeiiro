@@ -164,6 +164,7 @@ const amanda = {
             backEnd: {
                 Javascript: ['Node.js'],
                 Python: ['Flask'],
+                PHP: ['Laravel'],
                 Java: ['Spring Boot'],
                 C: ['GTK+ Toolkit']
             },
