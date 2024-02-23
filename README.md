@@ -124,12 +124,18 @@
       <img align="center" alt="Logo C" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/c/c-original.svg">
       <img align="center" alt="Logo C+" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/csharp/csharp-original.svg">
 </div>
-  
-#
-  
- [Snake animation](https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/output/github-contribution-grid-snake.gif)
+
 
 #
+
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=21dbozdwxswf2tj35svprbnri&count=1)](https://open.spotify.com/user/21dbozdwxswf2tj35svprbnri)
+
+#
+
+![Snake animation](https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/github-actions-demo/blob/output/github-contribution-grid-snake.gif)
+
+#
+
   
 [![Discord](https://img.shields.io/discord/1001854951514963978?label=discord&logo=discord&logoColor=violet)](https://discord.com/channels/999175108256092251) [![Twitch: amrcerq](https://img.shields.io/badge/-Twitch-blueviolet?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/amrcerq)](https://www.twitch.tv/amrcerq) [![Twitter Follow](https://img.shields.io/twitter/follow/daaribeiro_?style=social)](https://twitter.com/daaribeiro_) [![Linkedin Badge](https://img.shields.io/badge/-Amanda%20Ribeiro-0066A1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandarcerqueira/)](https://www.linkedin.com/in/amandarcerqueira//) [![Outlook](https://img.shields.io/twitter/url?color=blue&label=Email&logo=microsoft%20outlook&logoColor=blue&style=social&url=https%3A%2F%2Fmailto%3Aamandaribeiro.c%40outlook.com)](mailto:amandaribeiro.c@outlook.com)
 
