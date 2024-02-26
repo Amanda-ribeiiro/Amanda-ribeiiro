@@ -118,9 +118,9 @@
 
 <h2 align="center"> 📈 Statistics </h2>
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amanda-ribeiiro&show_icons=true&count_private=true&theme=tokyonight" />
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Amanda-ribeiiro&show_icons=true&count_private=true&theme=tokyonight" />
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanda-ribeiiro&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-ribeiiro&layout=compact&langs_count=7&theme=tokyonight" />
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-ribeiiro&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
   
