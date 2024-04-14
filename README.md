@@ -68,7 +68,7 @@
 </details>
 
 <details>
-  <summary>👩🏻‍💻 <code>ONE - T6</code> <a href="https://cursos.alura.com.br/formacao-fase-selecao-one6" target="_blank">Oracle</a></summary>
+  <summary>👩🏻‍💻 <code>ONE -T6</code> <a href="https://cursos.alura.com.br/formacao-fase-selecao-one6" target="_blank">Oracle</a></summary>
   <p><a href="https://github.com/Amanda-ribeiiro/ONE-T6.git" target="_blank">Repository</a></p>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=32F71B&width=435&lines=Hard+Skills" alt="Typing SVG">
