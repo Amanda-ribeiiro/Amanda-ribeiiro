@@ -29,6 +29,12 @@
 <!--<a href="https://bit.ly/arup-resume"><img height="33" src="https://user-images.githubusercontent.com/29790345/184598158-0db70aec-4b35-49df-9f91-24b4aaa3fa11.png?raw=true"></a>&nbsp;&nbsp;-->
 </p>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Amanda-ribeiiro}/count.svg" /></p> 
+<br>
+</div>
+
 <!-- Courses -->
 <details>
   <summary>🎓 <code>Starting the course Computer Science 3/8 at</code> <a href="https://portal.anhembi.br/" target="_blank">UMA</a></summary>
