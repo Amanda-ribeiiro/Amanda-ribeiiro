@@ -1,4 +1,7 @@
 <!-- / 🌐WEBSITE:  --> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=861ff0&height=120&section=header"/>
+
+<!-- / 🌐WEBSITE:  --> 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Amanda-ribeiiro0&color=blue&style=flat" alt="Profile Views">
   <a href="https://github.com/Amanda-ribeiiro/"><img src="https://img.shields.io/github/followers/Amanda-ribeiiro?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
@@ -213,3 +216,5 @@ const amanda = {
 <div alig="left">  
    <p align="right"><a href="https://github.com/Amanda-ribeiiro?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-ab7ad6?style=for-the-badge&logoColor=white&logo=repo"/></a></p>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e166e&height=120&section=footer"/>
