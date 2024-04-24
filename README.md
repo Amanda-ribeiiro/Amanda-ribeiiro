@@ -159,7 +159,7 @@
 <img src="https://i.imgur.com/x1KbuCq.gif" width="50%">
   
 <!--🐍📈SNAKE -->
-![Snake animation](https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/output/github-contribution-grid-snake.svg)-->
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <!-- <img src="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/snake-grid-animations/github-snake-grid-animation.svg" width="100%"> -->
