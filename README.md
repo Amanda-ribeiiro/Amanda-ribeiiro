@@ -12,7 +12,7 @@
 
 <!--💬GREETING & TITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg --> 
 <p align="center"> 
-  <a href="https://github.com/denvercoder1/readme-typing-svg">
+  <a href="https://github.com/Amanda-ribeiiro">
     <img src="https://github.githubassets.com/images/icons/emoji/octocat.png">
     <br>
     <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello!👋>;<Welcome+to+my+profile!>;<Nice+to+meet+you!>">
