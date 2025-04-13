@@ -1,7 +1,7 @@
-<!-- / 🌐WEBSITE: https://capsule-render.vercel.app/ --> 
+<!-- / 🌐WEBSITE: https://capsule-render.vercel.app/ -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=861ff0&height=120&section=header"/>
 
-<!-- / 🌐WEBSITE: https://komarev.com/ghpvc/ --> 
+<!-- / 🌐WEBSITE: https://komarev.com/ghpvc/ -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Amanda-ribeiiro0&color=blue&style=flat" alt="Profile Views">
   <a href="https://github.com/Amanda-ribeiiro/"><img src="https://img.shields.io/github/followers/Amanda-ribeiiro?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
@@ -10,8 +10,8 @@
 
 <br>
 
-<!--💬GREETING & TITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg --> 
-<p align="center"> 
+<!--💬GREETING & TITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+<p align="center">
   <a href="https://github.com/Amanda-ribeiiro">
     <img src="https://github.githubassets.com/images/icons/emoji/octocat.png">
     <br>
@@ -35,10 +35,10 @@
 </p>
 
 <!-- Contador -->
-<!-- / 🌐WEBSITE: https://profile-counter.glitch.me/%7Blarialbu%7D/count.svg --> 
+<!-- / 🌐WEBSITE: https://profile-counter.glitch.me/%7Blarialbu%7D/count.svg -->
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Amanda-ribeiiro}/count.svg" /></p> 
+<br><p align="centre"><b>Visitors Count</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Amanda-ribeiiro}/count.svg" /></p>
 <br>
 </div>
 
@@ -62,8 +62,8 @@
   <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg"></code>
   <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
   <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/react/react-original.svg"></code>
-  <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>  
-</details> 
+  <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
+</details>
 
 <details>
   <summary>👩🏻‍💻 <code>Introduction Computer Science</code> <a href="https://ead.napratica.org.br/" target="_blank">CC50 - Harvard</a></summary>
@@ -113,7 +113,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=B560F7&width=435&lines=Hard+Skills" alt="Typing SVG">
   </a>
   <br>
-  <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"></code>  
+  <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"></code>
 </details>
 
 <details>
@@ -125,10 +125,10 @@
   <br>
   <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg"></code>
   <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
-  <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/github/github-original-wordmark.svg"></code> 
+  <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/github/github-original-wordmark.svg"></code>
 </details>
 
-<!-- / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats --> 
+<!-- / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <h2 align="center"> 📈 Statistics </h2>
 <p align="center">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Amanda-ribeiiro&show_icons=true&count_private=true&theme=tokyonight" />
@@ -137,7 +137,7 @@
 </p>
 
 <!--Badges linguagens-->
-<!-- / 🌐WEBSITE: https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md -->   
+<!-- / 🌐WEBSITE: https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md -->
 <div align="center">
   <div style="display: inline_block"><br>
       <img align="center" alt="Logo HTML" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg">
@@ -151,7 +151,7 @@
       <img align="center" alt="Logo PHP" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/php/php-original.svg">
       <img align="center" alt="Logo WordPress" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/wordpress/wordpress-original.svg">
       <img align="center" alt="Logo Python" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg">
-      <img align="center" alt="Logo Java" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/java/java-original.svg">  
+      <img align="center" alt="Logo Java" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/java/java-original.svg">
       <img align="center" alt="Logo C" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/c/c-original.svg">
       <img align="center" alt="Logo C+" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/csharp/csharp-original.svg">
 </div>
@@ -162,7 +162,7 @@
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
 <!-- <img src="https://i.imgur.com/x1KbuCq.gif" width="50%">-->
-  
+
 <!--🐍📈SNAKE -->
 <!-- ![Snake animation](https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/output/github-contribution-grid-snake.svg)-->
 
@@ -171,13 +171,13 @@
 <!-- <img src="https://github.com/0xStryK3R/github-actions-demo/blob/output/github-snake-grid-dark-animation.svg" width="100%"> -->
 <!-- <img src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/github-actions-demo/blob/output/github-contribution-grid-snake.gif" width="100%"> -->
 
-<picture align="center" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/github-contribution-grid-snake.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/pacman-contribution-graph.svg">
 </picture>
 
-  
+
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -188,7 +188,7 @@
   </summary>
 <br>
 <div align="left">
- 
+
 ``` js
 const amanda = {
     personal: {
@@ -223,15 +223,15 @@ const amanda = {
 </details>
 
 <br>
- 
+
 <!--🎧 Spotify Recently Played README / 🌐WEBSITE: https://spotify-recently-played-readme.vercel.app/ -->
 <a href="https://open.spotify.com/user/21dbozdwxswf2tj35svprbnri">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=21dbozdwxswf2tj35svprbnri&count=1" alt="Spotify recently played">
 </a>
 
-<div alig="left">  
+<div alig="left">
    <p align="right"><a href="https://github.com/Amanda-ribeiiro?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-ab7ad6?style=for-the-badge&logoColor=white&logo=repo"/></a></p>
 </div>
 
-<!-- / 🌐WEBSITE: https://capsule-render.vercel.app/ --> 
+<!-- / 🌐WEBSITE: https://capsule-render.vercel.app/ -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e166e&height=120&section=footer"/>
