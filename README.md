@@ -1,5 +1,5 @@
 <!-- / 🌐WEBSITE: https://capsule-render.vercel.app/ -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=861ff0&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome%20&reversal=false&textBg=false&fontColor=fefefe&stroke=3f3d3d&fontSize=50&fontAlign=52&animation=fadeIn&desc=to%20my%20profile&descSize=23&descAlign=53"/>
 
 <!-- / 🌐WEBSITE: https://komarev.com/ghpvc/ -->
 <div align="center">
@@ -15,7 +15,7 @@
   <a href="https://github.com/Amanda-ribeiiro">
     <img src="https://github.githubassets.com/images/icons/emoji/octocat.png">
     <br>
-    <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello!👋>;<Welcome+to+my+profile!>;<Nice+to+meet+you!>">
+    <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello!👋>;<Nice+to+meet+you!>">
   </a>
 </p>
 
@@ -241,4 +241,4 @@ const amanda = {
 </div>
 
 <!-- / 🌐WEBSITE: https://capsule-render.vercel.app/ -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3e166e&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
