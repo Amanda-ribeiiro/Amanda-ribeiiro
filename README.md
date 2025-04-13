@@ -9,7 +9,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome%20&reversal=false&textBg=false&fontColor=fefefe&stroke=3f3d3d&fontSize=50&fontAlign=52&animation=fadeIn&desc=to%20my%20profile&descSize=23&descAlign=53"/>
 
 <!--💬GREETING & TITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
-
 <div align="center">
   <p>
     <img width="100" src="https://raw.githubusercontent.com/ego-prog/FigureBed/main/img/octocat.gif" alt="Octocat Animado">
@@ -20,26 +19,22 @@
   </p>
 </div>
 
-
-
-
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 
 <!-- Contador -->
 <!-- / 🌐WEBSITE: https://profile-counter.glitch.me/%7Blarialbu%7D/count.svg -->
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Amanda-ribeiiro}/count.svg" /></p>
-<br>
+  <p align="centre"><b>Visitors Count</b></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Amanda-ribeiiro}/count.svg" /></p>
 </div>
 
 <!-- / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <h2 align="center"> 📈 Statistics </h2>
 <p align="center">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Amanda-ribeiiro&show_icons=true&count_private=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanda-ribeiiro&theme=tokyonight" />
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-ribeiiro&layout=compact&langs_count=7&theme=tokyonight" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Amanda-ribeiiro&show_icons=true&count_private=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanda-ribeiiro&theme=tokyonight" />
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-ribeiiro&layout=compact&langs_count=7&theme=tokyonight" />
 </p>
 
 <!--Badges linguagens-->
@@ -66,15 +61,7 @@
 <br>
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<!-- <img src="https://i.imgur.com/x1KbuCq.gif" width="50%">-->
-
-<!--🐍📈SNAKE -->
-<!-- ![Snake animation](https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/output/github-contribution-grid-snake.svg)-->
-
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<!-- <img src="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/snake-grid-animations/github-snake-grid-animation.svg" width="100%"> -->
-<!-- <img src="https://github.com/0xStryK3R/github-actions-demo/blob/output/github-snake-grid-dark-animation.svg" width="100%"> -->
-<!-- <img src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/github-actions-demo/blob/output/github-contribution-grid-snake.gif" width="100%"> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/pacman-contribution-graph-dark.svg">
