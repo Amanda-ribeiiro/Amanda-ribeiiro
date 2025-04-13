@@ -13,7 +13,7 @@
 <!--💬GREETING & TITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <div align="center">
   <p>
-    <img width="100" src="https://raw.githubusercontent.com/ego-prog/FigureBed/main/img/octocat.gif" alt="Octocat Animado">
+    <img width="70" src="https://raw.githubusercontent.com/ego-prog/FigureBed/main/img/octocat.gif" alt="Octocat Animado">
     <br>
     <a href="https://github.com/Amanda-ribeiiro">
       <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello!👋>;<Nice+to+meet+you!>">
