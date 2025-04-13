@@ -193,7 +193,6 @@
 const amanda = {
     personal: {
         fullName: 'Amanda Ribeiro',
-        birthDate: '1997-01-19',
         sign: 'Capricorn',
         pronouns: 'she' | 'her',
         interests: ['music', 'shows', 'language learning', 'travel', 'Cool places', 'Gym'],
