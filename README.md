@@ -1,3 +1,4 @@
+<!-- Perfil -->
 <!-- / 🌐WEBSITE: https://komarev.com/ghpvc/ -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Amanda-ribeiiro0&color=blue&style=flat" alt="Profile Views">
@@ -5,6 +6,7 @@
   <img src="http://views.whatilearened.today/views/github/Amanda-Ribeiiro/views.svg" alt="Profile Views">
 </div>
 
+<!-- Saudação -->
 <!-- / 🌐WEBSITE: https://capsule-render.vercel.app/ -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome%20&reversal=false&textBg=false&fontColor=fefefe&stroke=3f3d3d&fontSize=50&fontAlign=52&animation=fadeIn&desc=to%20my%20profile&descSize=23&descAlign=53"/>
 
@@ -29,6 +31,7 @@
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Amanda-ribeiiro}/count.svg" /></p>
 </div>
 
+<!-- Estatíscas -->
 <!-- / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <h2 align="center"> 📈 Statistics </h2>
 <p align="center">
@@ -70,7 +73,7 @@
 </picture>
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
 <!-- Social -->
 <p align='center'>
