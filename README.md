@@ -1,6 +1,3 @@
-<!-- / 🌐WEBSITE: https://capsule-render.vercel.app/ -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome%20&reversal=false&textBg=false&fontColor=fefefe&stroke=3f3d3d&fontSize=50&fontAlign=52&animation=fadeIn&desc=to%20my%20profile&descSize=23&descAlign=53"/>
-
 <!-- / 🌐WEBSITE: https://komarev.com/ghpvc/ -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Amanda-ribeiiro0&color=blue&style=flat" alt="Profile Views">
@@ -8,7 +5,8 @@
   <img src="http://views.whatilearened.today/views/github/Amanda-Ribeiiro/views.svg" alt="Profile Views">
 </div>
 
-<br>
+<!-- / 🌐WEBSITE: https://capsule-render.vercel.app/ -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome%20&reversal=false&textBg=false&fontColor=fefefe&stroke=3f3d3d&fontSize=50&fontAlign=52&animation=fadeIn&desc=to%20my%20profile&descSize=23&descAlign=53"/>
 
 <!--💬GREETING & TITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <p align="center">
