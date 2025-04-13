@@ -241,4 +241,4 @@ const amanda = {
 </div>
 
 <!-- / 🌐WEBSITE: https://capsule-render.vercel.app/ -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true&textBg=false&fontColor=fefefe&stroke=3f3d3d&fontSize=50&fontAlign=52&animation=fadeIn&descSize=23&descAlign=53&section=footer"/>
