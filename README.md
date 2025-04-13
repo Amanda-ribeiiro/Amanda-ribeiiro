@@ -9,13 +9,19 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome%20&reversal=false&textBg=false&fontColor=fefefe&stroke=3f3d3d&fontSize=50&fontAlign=52&animation=fadeIn&desc=to%20my%20profile&descSize=23&descAlign=53"/>
 
 <!--💬GREETING & TITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/Amanda-ribeiiro">
-    <img src="https://github.githubassets.com/images/icons/emoji/octocat.png">
+
+<div align="center">
+  <p>
+    <img width="100" src="https://raw.githubusercontent.com/ego-prog/FigureBed/main/img/octocat.gif" alt="Octocat Animado">
     <br>
-    <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello!👋>;<Nice+to+meet+you!>">
-  </a>
-</p>
+    <a href="https://github.com/Amanda-ribeiiro">
+      <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello!👋>;<Nice+to+meet+you!>">
+    </a>
+  </p>
+</div>
+
+
+
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
