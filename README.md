@@ -22,18 +22,6 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
-<!-- Social -->
-<p align='center'>
-<a href="https://www.linkedin.com/in/amandarcerqueira//"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/daaribeiro_"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:amandaribeiro.c@outlook.com"><img height="32" src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://telegram.me/@amandacerqueira"><img height="33" src="https://user-images.githubusercontent.com/29790345/184537214-577d5f57-2557-4fb7-b0ed-f085174dd9c4.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://discordapp.com/users/550744711405502474"><img height="33" src="https://user-images.githubusercontent.com/29790345/184537680-90e29866-4295-4bfc-8808-5e19882c5069.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://discordapp.com/users/mdrc_"><img height="33" src="https://user-images.githubusercontent.com/29790345/184599637-8ba21112-adc2-400a-8931-b071b74fb2a7.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://bit.ly/arup-resume"><img height="33" src="https://user-images.githubusercontent.com/29790345/184598158-0db70aec-4b35-49df-9f91-24b4aaa3fa11.png?raw=true"></a>&nbsp;&nbsp;
-</p>
-
 <!-- Contador -->
 <!-- / 🌐WEBSITE: https://profile-counter.glitch.me/%7Blarialbu%7D/count.svg -->
 <div align="center">
@@ -180,6 +168,17 @@
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<!-- Social -->
+<p align='center'>
+  <a href="https://www.linkedin.com/in/amandarcerqueira//"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/daaribeiro_"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="mailto:amandaribeiro.c@outlook.com"><img height="32" src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://telegram.me/@amandacerqueira"><img height="33" src="https://user-images.githubusercontent.com/29790345/184537214-577d5f57-2557-4fb7-b0ed-f085174dd9c4.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/550744711405502474"><img height="33" src="https://user-images.githubusercontent.com/29790345/184537680-90e29866-4295-4bfc-8808-5e19882c5069.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/mdrc_"><img height="33" src="https://user-images.githubusercontent.com/29790345/184599637-8ba21112-adc2-400a-8931-b071b74fb2a7.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://bit.ly/arup-resume"><img height="33" src="https://user-images.githubusercontent.com/29790345/184598158-0db70aec-4b35-49df-9f91-24b4aaa3fa11.png?raw=true"></a>&nbsp;&nbsp;
+</p>
 
 <details>
   <summary>
