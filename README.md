@@ -185,6 +185,8 @@
     <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
     <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/github/github-original-wordmark.svg"></code>
   </details>
+</div>
+</details>
 
   <details align="center">
   <summary>
@@ -225,7 +227,6 @@ const amanda = {
 
 ```
   </div>
-  <details>
 </details>
 
 <br>
