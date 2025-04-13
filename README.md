@@ -161,7 +161,7 @@
 
 <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="50%">
+<!-- <img src="https://i.imgur.com/x1KbuCq.gif" width="50%">-->
   
 <!--🐍📈SNAKE -->
 <!-- ![Snake animation](https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/blob/output/github-contribution-grid-snake.svg)-->
@@ -170,6 +170,12 @@
 <!-- <img src="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/snake-grid-animations/github-snake-grid-animation.svg" width="100%"> -->
 <!-- <img src="https://github.com/0xStryK3R/github-actions-demo/blob/output/github-snake-grid-dark-animation.svg" width="100%"> -->
 <!-- <img src="https://github.com/Amanda-ribeiiro/Amanda-ribeiiro/github-actions-demo/blob/output/github-contribution-grid-snake.gif" width="100%"> -->
+
+<picture align="center" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/github-contribution-grid-snake.svg">
+</picture>
 
   
 <!--📏LINE-->
