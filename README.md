@@ -99,6 +99,7 @@
   </summary>
 <br>
 
+<div align="left">
   <!-- Courses -->
   <details>
     <summary>🎓 <code>Starting the course Computer Science 3/8 at</code> <a href="https://portal.anhembi.br/" target="_blank">UMA</a></summary>
@@ -185,7 +186,7 @@
     <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/github/github-original-wordmark.svg"></code>
   </details>
 
-  <details>
+  <details align="center">
   <summary>
     <button style="padding: 10px 20px; background-color: #AB7AD6; color: #FFF; border: none; border-radius: 5px; box-shadow: 0px 2px 2px rgba(0,0,0,0.3); transition: box-shadow 0.3s ease;" onclick="this.style.boxShadow='inset 0px 2px 2px rgba(0,0,0,0.3)'">More about me
     </button>
