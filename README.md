@@ -8,7 +8,7 @@
 
 <!-- Saudação -->
 <!-- / 🌐WEBSITE: https://capsule-render.vercel.app/ -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Welcome%20&reversal=false&textBg=false&fontColor=fefefe&stroke=3f3d3d&fontSize=50&fontAlign=52&animation=fadeIn&desc=to%20my%20profile&descSize=23&descAlign=53"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=blur&height=100&color=gradient&text=%20&reversal=false&textBg=false&fontColor=fefefe&stroke=3f3d3d&fontSize=10&fontAlign=52&animation=fadeIn&desc=&descSize=7&descAlign=53"/>
 
 <!--💬GREETING & TITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 <div align="center">
@@ -21,8 +21,13 @@
   </p>
 </div>
 
+<!-- 🌐WEBSITE: https://textanim.com/ -->
+<div align=center>
+  <img src="https://imgur.com/sUKLmZC.gif">
+</div>
+
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
+<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">-->
 
 <!-- Contador -->
 <!-- / 🌐WEBSITE: https://profile-counter.glitch.me/%7Blarialbu%7D/count.svg -->
@@ -73,18 +78,28 @@
 </picture>
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">-->
 
-<!-- Social -->
-<p align='center'>
-  <a href="https://www.linkedin.com/in/amandarcerqueira//"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/daaribeiro_"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="mailto:amandaribeiro.c@outlook.com"><img height="32" src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://telegram.me/@amandacerqueira"><img height="33" src="https://user-images.githubusercontent.com/29790345/184537214-577d5f57-2557-4fb7-b0ed-f085174dd9c4.png?raw=true"></a>&nbsp;&nbsp;
-  <!-- <a href="https://discordapp.com/users/550744711405502474"><img height="33" src="https://user-images.githubusercontent.com/29790345/184537680-90e29866-4295-4bfc-8808-5e19882c5069.png?raw=true"></a>&nbsp;&nbsp; -->
-  <a href="https://discordapp.com/users/mdrc_"><img height="33" src="https://user-images.githubusercontent.com/29790345/184599637-8ba21112-adc2-400a-8931-b071b74fb2a7.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://bit.ly/3RiukGe"><img height="33" src="https://user-images.githubusercontent.com/29790345/184598158-0db70aec-4b35-49df-9f91-24b4aaa3fa11.png?raw=true"></a>&nbsp;&nbsp;
-</p>
+<!-- Social-->
+<!-- 🌐WEBSITE: https://skillicons.dev/-->
+<div align="center" >
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/amandarcerqueira/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <!-- Discord -->
+  <a href="https://discordapp.com/users/mdrc_">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <!-- Twitter / X -->
+  <a href="https://twitter.com/daaribeiro_">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <!-- Email -->
+  <a href="mailto:amandaribeiro.c@outlook.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</div>
 
 <details>
   <summary>
