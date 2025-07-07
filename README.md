@@ -2,7 +2,7 @@
 <!-- / 🌐WEBSITE: https://komarev.com/ghpvc/ -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Amanda-ribeiiro0&color=blue&style=flat" alt="Profile Views">
-  <a href="https://github.com/Amanda-ribeiiro/"><img src="https://img.shields.io/github/followers/Amanda-ribeiiro?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+  <a href="https://github.com/Amanda-ribeiiro/" target="_blank" rel="noopener"><img src="https://img.shields.io/github/followers/Amanda-ribeiiro?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
   <img src="http://views.whatilearened.today/views/github/Amanda-Ribeiiro/views.svg" alt="Profile Views">
 </div>
 
@@ -15,7 +15,7 @@
   <p>
     <img width="70" src="https://raw.githubusercontent.com/ego-prog/FigureBed/main/img/octocat.gif" alt="Octocat Animado">
     <br>
-    <a href="https://github.com/Amanda-ribeiiro">
+    <a href="https://github.com/Amanda-ribeiiro" target="_blank" rel="noopener">
       <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello!👋>;<Nice+to+meet+you!>">
     </a>
   </p>
@@ -28,6 +28,8 @@
 
 <!--📏LINE-->
 <!--<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">-->
+
+<br>
 
 <!-- Contador -->
 <!-- / 🌐WEBSITE: https://profile-counter.glitch.me/%7Blarialbu%7D/count.svg -->
@@ -47,30 +49,16 @@
 
 <!--Badges linguagens-->
 <!-- / 🌐WEBSITE: https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md -->
+<!-- / 🌐WEBSITE: https://skillicons.dev -->
 <div align="center">
   <div style="display: inline_block"><br>
-      <img align="center" alt="Logo HTML" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Logo CSS" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Logo Js" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg">
-      <img align="center" alt="Logo React" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/react/react-original.svg">
-      <img align="center" alt="Logo Boostrap" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-      <img align="center" alt="Logo Angular" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-      <img align="center" alt="Logo Ts" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/typescript/typescript-original.svg">
-      <img align="center" alt="Logo Nodejs" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
-      <img align="center" alt="Logo PHP" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/php/php-original.svg">
-      <img align="center" alt="Logo WordPress" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/wordpress/wordpress-original.svg">
-      <img align="center" alt="Logo Python" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg">
-      <img align="center" alt="Logo Java" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/java/java-original.svg">
-      <img align="center" alt="Logo C" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/c/c-original.svg">
-      <img align="center" alt="Logo C+" height="30" width="40" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/csharp/csharp-original.svg">
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,angular,ts,nodejs,php,wordpress,python,java,c,cs" />
 </div>
 
 <br>
 <br>
 
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/pacman-contribution-graph.svg">
@@ -80,23 +68,26 @@
 <!--📏LINE-->
 <!--<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">-->
 
+<br>
+<br>
+
 <!-- Social-->
 <!-- 🌐WEBSITE: https://skillicons.dev/-->
 <div align="center" >
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/amandarcerqueira/">
+  <a href="https://www.linkedin.com/in/amandarcerqueira/" target="_blank" rel="noopener">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <!-- Discord -->
-  <a href="https://discordapp.com/users/mdrc_">
+  <a href="https://discordapp.com/users/mdrc_" target="_blank" rel="noopener">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
   <!-- Twitter / X -->
-  <a href="https://twitter.com/daaribeiro_">
+  <a href="https://twitter.com/daaribeiro_" target="_blank" rel="noopener">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
   <!-- Email -->
-  <a href="mailto:amandaribeiro.c@outlook.com">
+  <a href="mailto:amandaribeiro.c@outlook.com" target="_blank" rel="noopener">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </div>
@@ -111,85 +102,79 @@
 <div align="left">
   <!-- Courses -->
   <details>
-    <summary>🎓 <code>Starting the course Computer Science 3/8 at</code> <a href="https://portal.anhembi.br/" target="_blank">UMA</a></summary>
-    <p><a href="https://github.com/Amanda-ribeiiro/computer-science-ABM.git" target="_blank">Repository</a></p>
+    <summary>🎓 <code>Starting the course Data Science 1/8 at</code> <a href="https://univesp.br/vestibular" target="_blank" rel="noopener">UNIVESP</a></summary>
+    <p><a href="https://github.com/Amanda-ribeiiro/univesp-data-science" target="_blank" rel="noopener">Repository</a></p>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F78840&vCenter=true&width=435&lines=Mat%C3%A9rias" alt="Typing SVG">
     </a>
   </details>
 
   <details>
-    <summary>👩🏻‍💻 <code>Developer Front End</code> <a href="https://coursera.org/share/e949656cabfef5b1aec42b0352ecc104" target="_blank">Meta</a></summary>
-    <p><a href="https://github.com/Amanda-ribeiiro/Introduction-to-Front-End-Development.git" target="_blank">Repository</a></p>
+    <summary>🎓 <code>Starting the course Computer Science 5/8 at</code> <a href="https://portal.anhembi.br/" target="_blank" rel="noopener">UMA</a></summary>
+    <p><a href="https://github.com/Amanda-ribeiiro/computer-science-ABM.git" target="_blank" rel="noopener">Repository</a></p>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=F78840&vCenter=true&width=435&lines=Mat%C3%A9rias" alt="Typing SVG">
+    </a>
+  </details>
+
+  <details>
+    <summary>👩🏻‍💻 <code>Developer Front End</code> <a href="https://coursera.org/share/e949656cabfef5b1aec42b0352ecc104" target="_blank" rel="noopener">Meta</a></summary>
+    <p><a href="https://github.com/Amanda-ribeiiro/Introduction-to-Front-End-Development.git" target="_blank" rel="noopener">Repository</a></p>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=B560F7&width=435&lines=Hard+Skills" alt="Typing SVG">
     </a>
     <br>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg"></code>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg"></code>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/react/react-original.svg"></code>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"></code>
+    <code><img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap"></code>
   </details>
 
   <details>
-    <summary>👩🏻‍💻 <code>Introduction Computer Science</code> <a href="https://ead.napratica.org.br/" target="_blank">CC50 - Harvard</a></summary>
-    <p><a href="https://github.com/Amanda-ribeiiro/HarvardCC50.git" target="_blank">Repository</a></p>
+    <summary>👩🏻‍💻 <code>Introduction Computer Science</code> <a href="https://ead.napratica.org.br/" target="_blank" rel="noopener">CC50 - Harvard</a></summary>
+    <p><a href="https://github.com/Amanda-ribeiiro/HarvardCC50.git" target="_blank" rel="noopener">Repository</a></p>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=32F71B&width=435&lines=Hard+Skills" alt="Typing SVG">
     </a>
     <br>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/c/c-original.svg"></code>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg"></code>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/sqlite/sqlite-original.svg"></code>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg"></code>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg"></code>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
+    <code><img src="https://skillicons.dev/icons?i=c,python,sqlite,html,css,javascript"></code>
   </details>
 
   <details>
-    <summary>👩🏻‍💻 <code>ONE - T6</code> <a href="https://cursos.alura.com.br/formacao-fase-selecao-one6" target="_blank">Oracle</a></summary>
-    <p><a href="https://github.com/Amanda-ribeiiro/ONE-T6.git" target="_blank">Repository</a></p>
+    <summary>👩🏻‍💻 <code>ONE - T6</code> <a href="https://cursos.alura.com.br/formacao-fase-selecao-one6" target="_blank" rel="noopener">Oracle</a></summary>
+    <p><a href="https://github.com/Amanda-ribeiiro/ONE-T6.git" target="_blank" rel="noopener">Repository</a></p>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=32F71B&width=435&lines=Hard+Skills" alt="Typing SVG">
     </a>
     <br>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg"></code>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg"></code>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg"></code>
+    <code><img src="https://skillicons.dev/icons?i=python,html,css,javascript"></code>
   </details>
 
   <details>
-    <summary>👩🏻‍💻 <code>PHP</code> <a href="https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/" target="_blank">Udemy</a></summary>
-    <p><a href="https://github.com/Amanda-ribeiiro/curso-php-udemy.git" target="_blank">Repository</a></p>
+    <summary>👩🏻‍💻 <code>PHP</code> <a href="https://www.udemy.com/course/php-do-zero-a-maestria-com-projetos-incriveis/" target="_blank" rel="noopener">Udemy</a></summary>
+    <p><a href="https://github.com/Amanda-ribeiiro/curso-php-udemy.git" target="_blank" rel="noopener">Repository</a></p>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=32F71B&width=435&lines=Hard+Skills" alt="Typing SVG">
     </a>
     <br>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/html5/html5-original.svg"></code>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/css3/css3-original.svg"></code>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/php/php-original.svg"></code>
+    <code><img src="https://skillicons.dev/icons?i=html,css,javascript,php"></code>
   </details>
 
   <details>
-    <summary>👩🏻‍💻 <code>Bootcamp Microsoft Dynamics 365</code> <a href="https://web.dio.me/track/cf67dde3-0ad4-4fcb-9162-fc6aba72c0cf" target="_blank">DIO</a></summary>
-    <p><a href="https://github.com/Amanda-ribeiiro/Microsoft-Dynamics-365.git" target="_blank">Repository</a></p>
+    <summary>👩🏻‍💻 <code>Bootcamp Microsoft Dynamics 365</code> <a href="https://web.dio.me/track/cf67dde3-0ad4-4fcb-9162-fc6aba72c0cf" target="_blank" rel="noopener">DIO</a></summary>
+    <p><a href="https://github.com/Amanda-ribeiiro/Microsoft-Dynamics-365.git" target="_blank" rel="noopener">Repository</a></p>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=B560F7&width=435&lines=Hard+Skills" alt="Typing SVG">
     </a>
     <br>
-    <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg"></code>
+    <code><img src="https://skillicons.dev/icons?i=dotnet"></code>
   </details>
 
   <details>
-    <summary>👩🏻‍💻 <code>Santander Coders 2023</code> <a href="https://selecao.ada.tech/processo-seletivo/40da25ec-a962-4186-95bf-1925fd2bdf3a/andamento" target="_blank">Data Science</a></summary>
-    <p><a href="https://github.com/Amanda-ribeiiro/lscode.git" target="_blank">Repository</a></p>
+    <summary>👩🏻‍💻 <code>Santander Coders 2023</code> <a href="https://selecao.ada.tech/processo-seletivo/40da25ec-a962-4186-95bf-1925fd2bdf3a/andamento" target="_blank" rel="noopener">Data Science</a></summary>
+    <p><a href="https://github.com/Amanda-ribeiiro/lscode.git" target="_blank" rel="noopener">Repository</a></p>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=A8F7E7&width=435&lines=Hard+Skills" alt="Typing SVG">
     </a>
     <br>
+    <code><img src="https://skillicons.dev/icons?i=python,git,github"></code>
     <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/python/python-original.svg"></code>
     <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/git/git-original-wordmark.svg"></code>
     <code><img height="20" src="https://github.com/Amanda-ribeiiro/devicon/blob/master/icons/github/github-original-wordmark.svg"></code>
