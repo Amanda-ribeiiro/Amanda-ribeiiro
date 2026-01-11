@@ -92,6 +92,13 @@
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=21dbozdwxswf2tj35svprbnri&count=1" alt="Spotify recently played">
 </a> -->
 
+<!-- 🌐WEBSITE: https://textanim.com/ -->
+<!-- <div align=center>
+  <img src="https://imgur.com/sUKLmZC.gif">
+</div> -->
+
+<br>
+
 <div alig="left">
    <p align="right">
      <a href="https://github.com/Amanda-ribeiiro?tab=repositories">
@@ -99,11 +106,6 @@
      </a>
    </p>
 </div>
-
-<!-- 🌐WEBSITE: https://textanim.com/ -->
-<!-- <div align=center>
-  <img src="https://imgur.com/sUKLmZC.gif">
-</div> -->
 
 <!-- Footer -->
 <div>
