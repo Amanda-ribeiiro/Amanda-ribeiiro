@@ -87,11 +87,10 @@
 
 <br>
 
-<!-- Spotify -->
-<a href="https://open.spotify.com/user/21dbozdwxswf2tj35svprbnri">
-  <!--🎧 Spotify Recently Played README / 🌐WEBSITE: https://spotify-recently-played-readme.vercel.app/ -->
+<!--🎧 Spotify Recently Played README / 🌐WEBSITE: https://spotify-recently-played-readme.vercel.app/ -->
+<!-- <a href="https://open.spotify.com/user/21dbozdwxswf2tj35svprbnri">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=21dbozdwxswf2tj35svprbnri&count=1" alt="Spotify recently played">
-</a>
+</a> -->
 
 <div alig="left">
    <p align="right">
