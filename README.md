@@ -2,7 +2,9 @@
 <div align="center">
   <!-- / 🌐WEBSITE: https://komarev.com/ghpvc/ -->
   <img src="https://komarev.com/ghpvc/?username=Amanda-ribeiiro0&color=blue&style=flat" alt="Profile Views">
-  <a href="https://github.com/Amanda-ribeiiro/" target="_blank" rel="noopener"><img src="https://img.shields.io/github/followers/Amanda-ribeiiro?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
+  <a href="https://github.com/Amanda-ribeiiro/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/github/followers/Amanda-ribeiiro?color=%234CC61E&label=GitHub%20Followers%20%3A">
+  </a>
   <img src="http://views.whatilearened.today/views/github/Amanda-Ribeiiro/views.svg" alt="Profile Views">
 </div>
 
@@ -18,7 +20,7 @@
 
 <!-- Separação -->
 <div align=center>
-  <!--📏LINE-->
+  <!--📏LINE: https://i.imgur.com/dBaSKWF.gif -->
   <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 </div>
 
@@ -28,80 +30,86 @@
 <div align="center">
   <p align="centre"><b>Visitors Count</b></p>
   <!-- / 🌐WEBSITE: https://profile-counter.glitch.me/%7Blarialbu%7D/count.svg -->
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Amanda-ribeiiro}/count.svg" /></p>
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/{Amanda-ribeiiro}/count.svg">
+  </p>
 </div>
 
 <!-- Estatíscas -->
-<!-- / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <h2 align="center"> 📈 Statistics </h2>
 <p align="center">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Amanda-ribeiiro&show_icons=true&count_private=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanda-ribeiiro&theme=tokyonight" />
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-ribeiiro&layout=compact&langs_count=7&theme=tokyonight" />
+  <!-- / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Amanda-ribeiiro&show_icons=true&count_private=true&theme=tokyonight">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanda-ribeiiro&theme=tokyonight">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-ribeiiro&layout=compact&langs_count=7&theme=tokyonight">
 </p>
 
 <!--Badges linguagens-->
-<!-- / 🌐WEBSITE: https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md -->
-<!-- / 🌐WEBSITE: https://skillicons.dev -->
 <div align="center">
   <div style="display: inline_block"><br>
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,angular,ts,nodejs,php,wordpress,python,java,c,cs" />
+    <!-- / 🌐WEBSITE: https://skillicons.dev -->
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,angular,ts,nodejs,php,wordpress,python,java,c,cs">
 </div>
 
 <br>
 <br>
 
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <picture>
+  <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/pacman-contribution-graph.svg">
 </picture>
 
-<!--📏LINE-->
-<!--<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">-->
-
 <br>
 <br>
 
 <!-- Social-->
-<!-- 🌐WEBSITE: https://skillicons.dev/-->
 <div align="center" >
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/amandarcerqueira/" target="_blank" rel="noopener">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <!-- 🌐WEBSITE: https://skillicons.dev/-->
+    <img src="https://skillicons.dev/icons?i=linkedin">
   </a>
   <!-- Discord -->
   <a href="https://discordapp.com/users/mdrc_" target="_blank" rel="noopener">
-    <img src="https://skillicons.dev/icons?i=discord" />
+    <img src="https://skillicons.dev/icons?i=discord">
   </a>
   <!-- Twitter / X -->
   <a href="https://twitter.com/daaribeiro_" target="_blank" rel="noopener">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+    <img src="https://skillicons.dev/icons?i=twitter">
   </a>
   <!-- Email -->
   <a href="mailto:amandaribeiro.c@outlook.com" target="_blank" rel="noopener">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail">
   </a>
 </div>
 
-<!--🎧 Spotify Recently Played README / 🌐WEBSITE: https://spotify-recently-played-readme.vercel.app/ -->
+<!-- Spotify -->
 <a href="https://open.spotify.com/user/21dbozdwxswf2tj35svprbnri">
+  <!--🎧 Spotify Recently Played README / 🌐WEBSITE: https://spotify-recently-played-readme.vercel.app/ -->
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=21dbozdwxswf2tj35svprbnri&count=1" alt="Spotify recently played">
 </a>
 
 <div alig="left">
-   <p align="right"><a href="https://github.com/Amanda-ribeiiro?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-ab7ad6?style=for-the-badge&logoColor=white&logo=repo"/></a></p>
+   <p align="right">
+     <a href="https://github.com/Amanda-ribeiiro?tab=repositories">
+       <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-ab7ad6?style=for-the-badge&logoColor=white&logo=repo">
+     </a>
+   </p>
 </div>
 
 
 <div align=center>
   <!-- 🌐WEBSITE: https://textanim.com/ -->
   <img src="https://imgur.com/sUKLmZC.gif">
-  <!--📏LINE-->
+  <!--📏LINE: https://i.imgur.com/dBaSKWF.gif -->
   <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 </div>
 
+<!-- Footer -->
+<div>
+  <!-- / 🌐WEBSITE: https://capsule-render.vercel.app/ -->
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true&textBg=false&fontColor=fefefe&stroke=3f3d3d&fontSize=50&fontAlign=52&animation=fadeIn&descSize=23&descAlign=53&section=footer"> 
+</div>
 
-<!-- / 🌐WEBSITE: https://capsule-render.vercel.app/ -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true&textBg=false&fontColor=fefefe&stroke=3f3d3d&fontSize=50&fontAlign=52&animation=fadeIn&descSize=23&descAlign=53&section=footer"/>
