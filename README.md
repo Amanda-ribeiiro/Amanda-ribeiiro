@@ -85,6 +85,8 @@
   </a>
 </div>
 
+<br>
+
 <!-- Spotify -->
 <a href="https://open.spotify.com/user/21dbozdwxswf2tj35svprbnri">
   <!--🎧 Spotify Recently Played README / 🌐WEBSITE: https://spotify-recently-played-readme.vercel.app/ -->
@@ -99,13 +101,10 @@
    </p>
 </div>
 
-
-<div align=center>
-  <!-- 🌐WEBSITE: https://textanim.com/ -->
+<!-- 🌐WEBSITE: https://textanim.com/ -->
+<!-- <div align=center>
   <img src="https://imgur.com/sUKLmZC.gif">
-  <!--📏LINE: https://i.imgur.com/dBaSKWF.gif -->
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
-</div>
+</div> -->
 
 <!-- Footer -->
 <div>
