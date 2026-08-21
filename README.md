@@ -1,115 +1,245 @@
-<!-- Perfil -->
 <div align="center">
-  <!-- / 🌐WEBSITE: https://komarev.com/ghpvc/ -->
-  <img src="https://komarev.com/ghpvc/?username=Amanda-ribeiiro0&color=blue&style=flat" alt="Profile Views">
-  <a href="https://github.com/Amanda-ribeiiro/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/github/followers/Amanda-ribeiiro?color=%234CC61E&label=GitHub%20Followers%20%3A">
-  </a>
-  <img src="http://views.whatilearened.today/views/github/Amanda-Ribeiiro/views.svg" alt="Profile Views">
+
+<img src="https://komarev.com/ghpvc/?username=Amanda-ribeiiro&label=PROFILE%20VIEWS&color=6C63FF&style=flat-square" alt="Profile Views">
+
+<a href="https://github.com/Amanda-ribeiiro?tab=followers">
+<img src="https://img.shields.io/github/followers/Amanda-ribeiiro?label=FOLLOWERS&color=6C63FF&style=flat-square" alt="GitHub Followers">
+</a>
+
 </div>
 
 <br>
 
-<!-- Saudação -->
 <div align="center">
-  <img width="70" src="https://raw.githubusercontent.com/ego-prog/FigureBed/main/img/octocat.gif" alt="Octocat Animado">
-    <br>
-  <!-- / 🌐WEBSITE: https://capsule-render.vercel.app/ -->
-  <img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Full%20Stack&desc=Developer&fontSize=50&descSize=10">
-</div>
 
-<!-- Separação -->
-<div align=center>
-  <!--📏LINE: https://i.imgur.com/dBaSKWF.gif -->
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
+<img width="70" src="https://raw.githubusercontent.com/ego-prog/FigureBed/main/img/octocat.gif" alt="Octocat">
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=Full%20Stack&desc=Developer&fontSize=50&descSize=10" alt="Full Stack Developer">
+
 </div>
 
 <br>
 
-<!-- Contador -->
 <div align="center">
-  <p align="centre"><b>Visitors Count</b></p>
-  <!-- / 🌐WEBSITE: https://profile-counter.glitch.me/%7Blarialbu%7D/count.svg -->
-  <p align="center">
-    <img align="center" src="https://profile-counter.glitch.me/{Amanda-ribeiiro}/count.svg">
-  </p>
-</div>
 
-<!-- Estatíscas -->
-<h2 align="center"> 📈 Statistics </h2>
-<p align="center">
-  <!-- / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Amanda-ribeiiro&show_icons=true&count_private=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amanda-ribeiiro&theme=tokyonight">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-ribeiiro&layout=compact&langs_count=7&theme=tokyonight">
-</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%" alt="Separator">
 
-<!--Badges linguagens-->
-<div align="center">
-  <div style="display: inline_block"><br>
-    <!-- / 🌐WEBSITE: https://skillicons.dev -->
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,angular,ts,nodejs,php,wordpress,python,java,c,cs">
 </div>
 
 <br>
+
+## 👩🏻‍💻 About Me
+
+<div align="center">
+
+### Full Stack Developer
+
+Desenvolvedora Full Stack com foco em desenvolvimento web, tecnologia e aprendizado contínuo.
+
+Atualmente ampliando meus conhecimentos em <strong>Python, TypeScript, Angular, C++, SQL e AWS</strong>, fortalecendo minha base em desenvolvimento de software, estruturas de dados, arquitetura e Cloud Computing.
+
+</div>
+
 <br>
+
+<div align="center">
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%" alt="Separator">
+
+</div>
+
+<br>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+<h3>Frontend & Backend</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,bootstrap,angular,nodejs,php,wordpress,python,java,c,cpp,cs" alt="Frontend and Backend Technologies">
+
+<br><br>
+
+<h3>Database & Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode" alt="Database and Development Tools">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%" alt="Separator">
+
+</div>
+
+<br>
+
+## ☁️ AWS
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AWS%20Regions-6C63FF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Regions">
+
+<img src="https://img.shields.io/badge/Availability%20Zones-6C63FF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Availability Zones">
+
+<img src="https://img.shields.io/badge/Edge%20Locations-6C63FF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Edge Locations">
+
+<br>
+
+<img src="https://img.shields.io/badge/Shared%20Responsibility%20Model-6C63FF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Shared Responsibility Model">
+
+<img src="https://img.shields.io/badge/IAM-6C63FF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS IAM">
+
+<img src="https://img.shields.io/badge/VPC-6C63FF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon VPC">
+
+<br>
+
+<img src="https://img.shields.io/badge/S3-6C63FF?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3">
+
+<img src="https://img.shields.io/badge/EC2-6C63FF?style=for-the-badge&logo=amazonec2&logoColor=white" alt="Amazon EC2">
+
+<img src="https://img.shields.io/badge/Route%2053-6C63FF?style=for-the-badge&logo=amazonroute53&logoColor=white" alt="Amazon Route 53">
+
+<br><br>
+
+<a href="https://www.udemy.com/course/aws-na-pratica/">
+
+<img src="https://img.shields.io/badge/AWS%2C%20na%20pr%C3%A1tica!-6C63FF?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS na prática">
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%" alt="Separator">
+
+</div>
+
+<br>
+
+## 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,angular,cpp,mysql,aws" alt="Currently Learning">
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SOLID-6C63FF?style=for-the-badge" alt="SOLID">
+
+<img src="https://img.shields.io/badge/Design%20Patterns-6C63FF?style=for-the-badge" alt="Design Patterns">
+
+<img src="https://img.shields.io/badge/Data%20Structures-6C63FF?style=for-the-badge" alt="Data Structures">
+
+<img src="https://img.shields.io/badge/SQL-6C63FF?style=for-the-badge" alt="SQL">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%" alt="Separator">
+
+</div>
+
+<br>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<!-- <img
+  src="https://github-readme-stats.vercel.app/api?username=Amanda-ribeiiro&show_icons=true&theme=tokyonight&hide_border=true"
+  alt="GitHub Statistics"
+/> -->
+
+<!-- <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amanda-ribeiiro&layout=compact&theme=tokyonight&hide_border=true"
+  alt="Top Languages"
+/> -->
+
+<br><br>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Amanda-ribeiiro&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+
+## 🐍 Contributions
+
+<div align="center">
 
 <picture>
-  <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/pacman-contribution-graph.svg">
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/pacman-contribution-graph-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/pacman-contribution-graph.svg">
+
+<img src="https://raw.githubusercontent.com/Amanda-ribeiiro/Amanda-ribeiiro/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph">
+
 </picture>
 
-<br>
-<br>
-
-<!-- Social-->
-<div align="center" >
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/amandarcerqueira/" target="_blank" rel="noopener">
-    <!-- 🌐WEBSITE: https://skillicons.dev/-->
-    <img src="https://skillicons.dev/icons?i=linkedin">
-  </a>
-  <!-- Discord -->
-  <a href="https://discordapp.com/users/mdrc_" target="_blank" rel="noopener">
-    <img src="https://skillicons.dev/icons?i=discord">
-  </a>
-  <!-- Twitter / X -->
-  <a href="https://twitter.com/daaribeiro_" target="_blank" rel="noopener">
-    <img src="https://skillicons.dev/icons?i=twitter">
-  </a>
-  <!-- Email -->
-  <a href="mailto:amandaribeiro.c@outlook.com" target="_blank" rel="noopener">
-    <img src="https://skillicons.dev/icons?i=gmail">
-  </a>
 </div>
 
 <br>
 
-<!--🎧 Spotify Recently Played README / 🌐WEBSITE: https://spotify-recently-played-readme.vercel.app/ -->
-<!-- <a href="https://open.spotify.com/user/21dbozdwxswf2tj35svprbnri">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=21dbozdwxswf2tj35svprbnri&count=1" alt="Spotify recently played">
-</a> -->
+<div align="center">
 
-<!-- 🌐WEBSITE: https://textanim.com/ -->
-<!-- <div align=center>
-  <img src="https://imgur.com/sUKLmZC.gif">
-</div> -->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%" alt="Separator">
+
+</div>
 
 <br>
 
-<div alig="left">
-   <p align="right">
-     <a href="https://github.com/Amanda-ribeiiro?tab=repositories">
-       <img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-ab7ad6?style=for-the-badge&logoColor=white&logo=repo">
-     </a>
-   </p>
+## 🔗 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/amandarcerqueira/" target="_blank" rel="noopener">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn">
+</a>
+
+<a href="mailto:amandaribeiro.c@outlook.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Email">
+</a>
+
+<a href="https://github.com/Amanda-ribeiiro" target="_blank" rel="noopener">
+<img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub">
+</a>
+
 </div>
 
-<!-- Footer -->
-<div>
-  <!-- / 🌐WEBSITE: https://capsule-render.vercel.app/ -->
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true&textBg=false&fontColor=fefefe&stroke=3f3d3d&fontSize=50&fontAlign=52&animation=fadeIn&descSize=23&descAlign=53&section=footer"> 
+<br>
+
+<div align="right">
+
+<a href="https://github.com/Amanda-ribeiiro?tab=repositories">
+
+<img src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-ab7ad6?style=for-the-badge&logoColor=white&logo=repo" alt="All Repositories">
+
+</a>
+
 </div>
 
+<br><br>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&reversal=true&textBg=false&fontColor=fefefe&stroke=3f3d3d&fontSize=45&fontAlign=52&animation=fadeIn&section=footer" alt="Footer">
+
+</div>
